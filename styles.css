@@ -4,6 +4,19 @@ body {
   text-align: center;
   color: #333;
 }
+.site-header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 15px;
+    text-align: center;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 
 .game-board {
   background-color: white;
